@@ -1,10 +1,7 @@
 
 <img width="1213" height="403" alt="Github Banner" src="https://github.com/user-attachments/assets/8b40b93b-13bd-4595-a000-e6040967652f" />
 
-### Hello World 👋,
-
-
-Meu nome é Giovana Pereira e estou me especializando em desenvolvimento web full stack.
+Meu texto de apresentação.
 
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
