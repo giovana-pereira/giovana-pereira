@@ -1,7 +1,6 @@
-oi Mundo 👋
 
+Hello World 👋
 Meu nome é Giovana Pereira e estou me especializando em desenvolvimento web full stack.
-
 
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
@@ -11,6 +10,5 @@ Meu nome é Giovana Pereira e estou me especializando em desenvolvimento web ful
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap" /></code></code>
 </div>
 
-  ![fernandodomeneghetti's Stats](https://github-readme-stats.vercel.app/api?username=fernandodomeneghetti&theme=dark&show_icons=true&hide_border=false&count_private=true)  
-
+![fernandodomeneghetti's Stats](https://github-readme-stats.vercel.app/api?username=fernandodomeneghetti&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
