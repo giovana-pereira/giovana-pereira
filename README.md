@@ -10,6 +10,5 @@
 
 
   ![fernandodomeneghetti's Stats](https://github-readme-stats.vercel.app/api?username=fernandodomeneghetti&theme=dark&show_icons=true&hide_border=false&count_private=true)  
-  ![fernandodomeneghetti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fernandodomeneghetti&theme=dark&hide_border=false)  
   ![fernandodomeneghetti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandodomeneghetti&theme=dark&show_icons=true&hide_border=false&layout=compact)  
 
