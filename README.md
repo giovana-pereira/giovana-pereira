@@ -1,5 +1,6 @@
 
-Hello World 👋
+### Hello World 👋,
+
 Meu nome é Giovana Pereira e estou me especializando em desenvolvimento web full stack.
 
 <div align="center">
@@ -9,6 +10,10 @@ Meu nome é Giovana Pereira e estou me especializando em desenvolvimento web ful
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap" /></code></code>
 </div>
-
+<br>
+<div align="center">
+	
 ![giovana-pereira's Stats](https://github-readme-stats.vercel.app/api?username=giovana-pereira&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
+
+</div>
