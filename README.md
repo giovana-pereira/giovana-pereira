@@ -1,5 +1,5 @@
 
-![giovana-pereira_header](<img width="1213" height="403" alt="Github Banner" src="https://github.com/user-attachments/assets/8b40b93b-13bd-4595-a000-e6040967652f" />)
+<img width="1213" height="403" alt="Github Banner" src="https://github.com/user-attachments/assets/8b40b93b-13bd-4595-a000-e6040967652f" />
 
 ### Hello World 👋,
 
