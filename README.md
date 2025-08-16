@@ -1,5 +1,5 @@
 
-![giovana-pereira_header](https://user-images.githubusercontent.com/25181517/117185899-9ccba680-adda-11eb-9003-7c25da391b99.PNG)
+![giovana-pereira_header](Github%20Banner.svg)
 
 ### Hello World 👋,
 
