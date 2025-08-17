@@ -1,7 +1,8 @@
 <img width="1213" height="403" alt="Github Banner" src="https://github.com/user-attachments/assets/f2abce7a-41a3-441f-b3f7-f76bc7ddad93" />
 
-Meu texto de apresentação.
+Oii, mais texto.
 
+###Lingaguens e Tecnologias
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP" /></code>
